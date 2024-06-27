@@ -1,0 +1,9 @@
+name: WNCpsKoruma
+version: '${version}'
+main: azadxld.wncpskoruma.WNCpsKoruma
+commands:
+  wncpsreload:
+    description: Reload Atar
+    usage: /<command>
+    permission: wncpskoruma.reload
+

@@ -1,0 +1,10 @@
+left_click_limit: 17
+right_click_limit: 17
+left_click_aktif: true
+right_click_aktif: true
+cooldown_sure_saniye: 3
+mesajlar:
+  prefix: "&c&lCPS &8» "
+  yetki_yok: "&bBu Komut İçin Yetkin Yok..."
+  reload: "&bBaşarıyla Yenilendi"
+  cps_uyari: "&fCPS limitine takıldığınız için &b&l3&f saniye boyunca vuruşlarınız sayılmayacak"
